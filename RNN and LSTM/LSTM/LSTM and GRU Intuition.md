@@ -4,7 +4,8 @@
 # How does LSTM and GRU function?
 
 
-![lstm_2.svg](file:///Users/kris/Library/Containers/net.jocius.reflection/Data/Documents/Reflection/J1/2020/07/Files/lstm_2.svg)
+![Uploading Screenshot 2020-07-07 at 4.15.42 AM.png…]()
+
 
 ** Dependencies**
 
