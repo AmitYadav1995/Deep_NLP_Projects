@@ -1,5 +1,7 @@
 # BERT and A List of NLP frameworks (NLP Infographic)
 
+# NOTE :- Make sure You are aware about the functionality of Transformer before reading it.
+
 > # Agenda of this Notebook
 > BERT architecture
 
